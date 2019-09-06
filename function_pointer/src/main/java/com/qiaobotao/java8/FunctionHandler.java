@@ -1,7 +1,5 @@
 package com.qiaobotao.java8;
 
-import java.rmi.Remote;
-
 /**
  * @author 乔伯涛  qiaobotao@jd.com
  * @描述 方法管理类
